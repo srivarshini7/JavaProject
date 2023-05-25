@@ -4,11 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f800c94d-f887-4927-a837-b0a6f83ac5c7" name="Changes" comment="Intial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Addition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="f800c94d-f887-4927-a837-b0a6f83ac5c7" name="Changes" comment="Addition">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/EvenFibonacii.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/EvenorOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FactorOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Fibonacci100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HCFandLCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SumofNNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SwapWithoutVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SwapwithVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/primeOrNot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +48,66 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/developer/IdeaProjects/JavaPractice/src/main/java/org/example/Main.java&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="Addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Addition" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HCFandLCM">
+    <configuration name="EvenFibonacii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.EvenFibonacii" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacci100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Fibonacci100" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HCFandLCM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.HCFandLCM" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.LeapYear" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.PerfectNumber" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -54,7 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Addition" />
+        <item itemvalue="Application.HCFandLCM" />
+        <item itemvalue="Application.LeapYear" />
+        <item itemvalue="Application.EvenFibonacii" />
+        <item itemvalue="Application.Fibonacci100" />
+        <item itemvalue="Application.PerfectNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -67,6 +138,14 @@
       <option name="presentableId" value="Default" />
       <updated>1684925543842</updated>
     </task>
+    <task id="LOCAL-00001" summary="Addition">
+      <created>1684992083393</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684992083393</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,17 +161,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Intial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Intial commit" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Addition" />
+    <option name="LAST_COMMIT_MESSAGE" value="Addition" />
   </component>
 </project>
