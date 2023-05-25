@@ -16,7 +16,7 @@ public class HCFandLCM {
             temp1=temp;
         }
         System.out.println("The HCF of "+ a+ " and "+ b+" is "+temp1);
-        int lcm = (a+b)/temp1;
-        System.out.println("The HCF of "+ a+ " and "+ b+" is "+lcm);
+        int lcm = (a*b)/temp1;
+        System.out.println("The LCM of "+ a+ " and "+ b+" is "+lcm);
     }
 }

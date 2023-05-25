@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f800c94d-f887-4927-a837-b0a6f83ac5c7" name="Changes" comment="Addition">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Average.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/EvenFibonacii.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/EvenorOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FactorOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Fibonacci100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HCFandLCM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PerfectNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SumofNNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SwapWithoutVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SwapwithVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/primeOrNot.java" afterDir="false" />
+    <list default="true" id="f800c94d-f887-4927-a837-b0a6f83ac5c7" name="Changes" comment="Condition Statements practice programs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -145,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684992083393</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Condition Statements practice programs">
+      <created>1685012180024</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685012180024</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +156,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Intial commit" />
     <MESSAGE value="Addition" />
-    <option name="LAST_COMMIT_MESSAGE" value="Addition" />
+    <MESSAGE value="Condition Statements practice programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Condition Statements practice programs" />
   </component>
 </project>
