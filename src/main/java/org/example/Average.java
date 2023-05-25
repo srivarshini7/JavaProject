@@ -9,6 +9,6 @@ public class Average {
         b= s.nextInt();
         float c;
         c = (a+b)/2;
-        System.out.println("The Average of two numbers is "+ c);
+        System.out.print("The Average of two numbers is "+ c);
     }
 }
