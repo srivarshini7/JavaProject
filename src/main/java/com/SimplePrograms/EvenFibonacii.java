@@ -1,4 +1,4 @@
-package org.example;
+package com.SimplePrograms;
 import java.util.Scanner;
 public class EvenFibonacii {
     public static void main(String[] args) {

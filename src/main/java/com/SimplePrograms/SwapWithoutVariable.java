@@ -1,4 +1,4 @@
-package org.example;
+package com.SimplePrograms;
 import java.util.Scanner;
 public class SwapWithoutVariable {
     public static void main(String[] args){

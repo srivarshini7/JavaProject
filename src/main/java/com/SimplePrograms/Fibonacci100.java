@@ -1,4 +1,4 @@
-package org.example;
+package com.SimplePrograms;
 public class Fibonacci100 {
     public static void main(String[] args){
         System.out.println("The Fibonacci series below 100 is ");
